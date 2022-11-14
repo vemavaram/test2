@@ -62,7 +62,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./tf
+        working-directory: ./test2/tf
 
     steps:
     # Checkout the repository to the GitHub Actions runner
